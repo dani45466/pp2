@@ -1,3 +1,0 @@
-print("hhhhh")
-
-print("test")
