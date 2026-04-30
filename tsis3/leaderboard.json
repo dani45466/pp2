@@ -1,0 +1,56 @@
+[
+    {
+        "name": "alano",
+        "score": 145,
+        "coins": 8,
+        "distance": 1309
+    },
+    {
+        "name": "bos",
+        "score": 72,
+        "coins": 4,
+        "distance": 650
+    },
+    {
+        "name": "alano",
+        "score": 58,
+        "coins": 5,
+        "distance": 161
+    },
+    {
+        "name": "bos",
+        "score": 32,
+        "coins": 2,
+        "distance": 245
+    },
+    {
+        "name": "alano",
+        "score": 16,
+        "coins": 1,
+        "distance": 133
+    },
+    {
+        "name": "alano",
+        "score": 14,
+        "coins": 0,
+        "distance": 287
+    },
+    {
+        "name": "alano",
+        "score": 9,
+        "coins": 0,
+        "distance": 192
+    },
+    {
+        "name": "alano",
+        "score": 8,
+        "coins": 0,
+        "distance": 165
+    },
+    {
+        "name": "alano",
+        "score": 5,
+        "coins": 0,
+        "distance": 109
+    }
+]
